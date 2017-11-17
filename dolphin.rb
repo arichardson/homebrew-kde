@@ -18,6 +18,7 @@ class Dolphin < Formula
   depends_on "KDE-mac/kde/kf5-kcmutils"
   depends_on "KDE-mac/kde/kf5-kparts"
   depends_on "KDE-mac/kde/kf5-kinit"
+  depends_on "KDE-mac/kde/kf5-kdelibs4support"
   depends_on "KDE-mac/kde/kio-extras"
 
   def install
